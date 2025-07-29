@@ -16,5 +16,10 @@ namespace MiProyceto
         {
             InitializeComponent();
         }
+
+        private void btnSaludar_Click(object sender, EventArgs e)
+        {
+            lblSaludo.Text = "¡Hola, " + txtNombre.Text + "!, Bienvenido Precios@.";
+        }
     }
 }

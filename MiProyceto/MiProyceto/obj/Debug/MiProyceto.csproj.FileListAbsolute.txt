@@ -1,0 +1,11 @@
+C:\Users\MINEDUCYT\Desktop\Progra1-2025\MiProyceto\MiProyceto\bin\Debug\MiProyceto.exe.config
+C:\Users\MINEDUCYT\Desktop\Progra1-2025\MiProyceto\MiProyceto\bin\Debug\MiProyceto.exe
+C:\Users\MINEDUCYT\Desktop\Progra1-2025\MiProyceto\MiProyceto\bin\Debug\MiProyceto.pdb
+C:\Users\MINEDUCYT\Desktop\Progra1-2025\MiProyceto\MiProyceto\obj\Debug\MiProyceto.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Progra1-2025\MiProyceto\MiProyceto\obj\Debug\MiProyceto.Form1.resources
+C:\Users\MINEDUCYT\Desktop\Progra1-2025\MiProyceto\MiProyceto\obj\Debug\MiProyceto.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\Progra1-2025\MiProyceto\MiProyceto\obj\Debug\MiProyceto.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\Progra1-2025\MiProyceto\MiProyceto\obj\Debug\MiProyceto.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Progra1-2025\MiProyceto\MiProyceto\obj\Debug\MiProyceto.exe
+C:\Users\MINEDUCYT\Desktop\Progra1-2025\MiProyceto\MiProyceto\obj\Debug\MiProyceto.pdb
+C:\Users\MINEDUCYT\Desktop\Progra1-2025\MiProyceto\MiProyceto\obj\Debug\MiProyceto.exe.config
